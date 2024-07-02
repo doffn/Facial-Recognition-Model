@@ -63,20 +63,20 @@ The code is organized into the following classes and functions:
 - **`reset_verification_label` function:**
     - Resets the verification label to its default state (green text, "Welcome") after a verification attempt (clears the message after verification is done! ).
 
-## ** Additional Notes**
+## Additional Notes
 
 - The code assumes you have a pre-defined user database set up for verification.
 - You might need to adjust the DeepFace model selection (`models[0]`) based on your requirements and installation.
 - Consider error handling and logging for robustness (makes the code more reliable ).
 
-## ** Contributing 💡**
+## Contributing 💡
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## ** Credits 🙌**
+## Credits 🙌
 
 This project was created by **Dawit Neri**
 
-## ** Support 💬**
+## Support 💬
 
 If you encounter any issues or have any questions, feel free to reach out to dawitneri888@gmail.com or open an issue in the GitHub repository.
