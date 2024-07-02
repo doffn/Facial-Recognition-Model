@@ -1,0 +1,7 @@
+kivy==2.1.0
+opencv-python==4.6.0.66
+tensorflow==2.11.0
+Pillow==9.4.0
+numpy==1.25.0
+tensorflow-hub==0.16.1
+deepface==0.0.91
