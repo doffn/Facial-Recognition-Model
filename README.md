@@ -1,4 +1,4 @@
-**# Facial Verification App :camera: :face_with_monocle:**
+**# Facial Verification App :camera: 🧐**
 
 This README file provides a detailed explanation of the Kivy facial verification app, outlining its functionalities, usage instructions, and dependencies .
 
